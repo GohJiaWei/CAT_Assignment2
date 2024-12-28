@@ -1,14 +1,5 @@
 # React + Vite
 
-This project is a web application that allows users to manage their tasks effectively. Features include:
-
-- Create, edit, and delete tasks
-- Mark tasks as complete/incomplete
-- Filter tasks by status
-- Responsive design for mobile and desktop
-- Local storage persistence
-- Dark/Light theme support
-
 ## Getting Started
 
 1. Install dependencies:
